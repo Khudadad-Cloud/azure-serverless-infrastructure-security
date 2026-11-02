@@ -1,20 +1,7 @@
 
 #!/bin/bash
 
-# Variables
-RESOURCE_GROUP="rg-functionapp-project"
-LOCATION="canadacentral"
-
-VNET_NAME="vnet-functionapp"
-
-APP_SUBNET="app-subnet"
-STORAGE_SUBNET="storage-subnet"
-
-APP_NSG="nsg-functionapp"
-STORAGE_NSG="nsg-storage"
-
 # Create Application NSG
-echo "Creating Application Network Security Group..."
 
 az network nsg create \
     --resource-group "$RESOURCE_GROUP" \
