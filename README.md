@@ -173,34 +173,6 @@ The exact connections between these services depend on the deployed configuratio
 
 **Evidence:** See the Cost Management screenshots.
 
-## Screenshots
-
-The following screenshots document the configuration and deployment of the project's Azure components.
-
-### 1. Azure Function App
-
-![Azure Function App](screenshots/01-function-app.png)
-
-### 2. ARM Template Deployment
-
-![ARM Template Deployment](screenshots/02-arm-template.png)
-
-### 3. Azure Cloud Shell
-
-![Azure Cloud Shell](screenshots/03-cloud-shell.png)
-
-### 4. Network Security Group
-
-![Network Security Group](screenshots/04-network-security-group.png)
-
-### 5. Azure Key Vault
-
-![Azure Key Vault](screenshots/05-key-vault.png)
-
-### 6. Azure Cost Management
-
-![Azure Cost Management](screenshots/06-cost-management.png)
-
 ## Security Considerations
 
 * Apply the principle of least privilege when granting access to Azure resources.
@@ -229,6 +201,6 @@ This project brought together several Azure services to explore cloud applicatio
 
 It demonstrates practical exposure to Azure administration and cloud infrastructure concepts relevant to junior IT support, cloud support, and Azure administration roles.
 
-## Disclaimer
-
-This project was completed in a personal learning environment. Resource configurations, service availability, and costs depend on the Azure subscription, region, selected service tiers, and deployment settings.
+## Author
+## Khudadad Hussaini
+Cloud and Infrastructure Engineer with a focus on Microsoft Azure, Infrastructure as Code, automation, and scalable cloud solutions.
