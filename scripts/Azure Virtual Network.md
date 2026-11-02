@@ -1,11 +1,5 @@
 #!/bin/bash
 
-# ==========================================
-# Azure Virtual Network Deployment
-# Project: Azure Function App
-# Tool: Azure Cloud Shell (Bash)
-# ==========================================
-
 # Variables
 RESOURCE_GROUP="rg-functionapp-project"
 LOCATION="canadacentral"
