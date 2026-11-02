@@ -45,7 +45,7 @@ The exact connections between these services depend on the deployed configuratio
 
 **Architecture Diagram**
 
-![Azure Serverless Infrastructure and Security Architecture](diagrams/azure-architecture.png)
+![Azure Serverless Infrastructure and Security Architecture](diagrams/mysecondproject.png)
 
 ## Implementation Details
 
